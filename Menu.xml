@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+
+
+<info>
+<message>Movies</message>
+<thumbnail></thumbnail>
+</info>
+
+
+
+
+<channels>
+<channel>
+    <name>Box Sets</name>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+    <name>Latest Movies</name>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+    <name>Sky Movies</name>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+    <name>Sky Sports</name>
+<thumbnail></thumbnail>
+<link>http://ignoreme</link>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+</channels>
