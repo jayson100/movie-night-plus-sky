@@ -17,7 +17,7 @@
     <name>Box Sets</name>
 <thumbnail></thumbnail>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/jayson100/movie-night-plus-sky/Boxsets.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -28,7 +28,7 @@
     <name>Latest Movies</name>
 <thumbnail></thumbnail>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/jayson100/movie-night-plus-sky/Latest_Movies.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -39,7 +39,7 @@
     <name>Sky Movies</name>
 <thumbnail></thumbnail>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/jayson100/movie-night-plus-sky/Sky_Movies.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
@@ -50,7 +50,7 @@
     <name>Sky Sports</name>
 <thumbnail></thumbnail>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/jayson100/movie-night-plus-sky/Sky_Sports.xml</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
